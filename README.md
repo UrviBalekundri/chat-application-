@@ -1,0 +1,2 @@
+chat application was developed using mern stack with features such end to end encrption with exchange of messages,pdf,file and image
+the user needs to first register with username and password than the user gets access to the chat interface with all the other users that were registred earlier and the user also gets to see the whether other users are online or not who are going to be the recepient 
